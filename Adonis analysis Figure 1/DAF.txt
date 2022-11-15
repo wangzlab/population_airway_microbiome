@@ -1,0 +1,27 @@
+Variable	Geo.level	Evaluation	Value	pvalue	log10P
+year2pm25	District	Kruskal-Wallis	1292.305578	2.97E-277	276.5277164
+Biofuel_exposure	District	X-squared	396.0229051	2.14E-83	82.67059619
+Occupational_pollution	District	X-squared	197.7282787	8.70E-41	40.06065575
+CAT_score	District	Kruskal-Wallis	99.5520705	6.57E-20	19.1825427
+SHS_binary	District	X-squared	89.88998246	7.09E-18	17.14956402
+Age	District	Kruskal-Wallis	71.23525392	5.67E-14	13.24651937
+A_FEV1_FVC_Post	District	Kruskal-Wallis	70.43806918	8.31E-14	13.08054024
+Rhinitis	District	X-squared	59.65550346	1.43E-11	10.84408183
+Allergic rhinitis	District	X-squared	48.76863785	2.47E-09	8.606513523
+Osteoporosis	District	X-squared	47.73702377	4.02E-09	8.395864554
+Wheeze	District	X-squared	43.50830049	2.91E-08	7.535442534
+A_FEV1_Post	District	Kruskal-Wallis	40.6023282	1.13E-07	6.947361167
+Smoking_binary	District	X-squared	40.00659578	1.49E-07	6.827163261
+Gender	District	X-squared	29.42428331	1.91E-05	4.718038527
+Phlegm	District	X-squared	27.5654034	4.43E-05	4.354027272
+FEV1pred_post	District	Kruskal-Wallis	26.25654412	7.96E-05	4.099240844
+Anemia	District	X-squared	24.98003863	0.000140576	3.852089506
+Arrhythmia	District	X-squared	22.92397155	0.000349052	3.457109866
+Cough	District	X-squared	22.6700718	0.000390278	3.408625586
+Hypertension	District	X-squared	22.02316413	0.000518316	3.285405433
+Gastroesophageal_reflux	District	X-squared	20.29863525	0.001098292	2.959282377
+Dyspnea	District	X-squared	19.95795647	0.001272638	2.895295165
+Asthma	District	X-squared	18.46103068	0.002420794	2.616042246
+CHD	District	X-squared	17.95945741	0.002997647	2.523219476
+Chronic Bronchitis	District	X-squared	15.49727943	0.008436017	2.073862537
+BMI	District	Kruskal-Wallis	12.61362437	0.027281488	1.564131948
