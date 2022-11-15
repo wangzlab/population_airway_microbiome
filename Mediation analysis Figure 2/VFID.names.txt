@@ -1,0 +1,423 @@
+VFID	VF.name
+VF1308	Aa-CDT
+VF1121	AAI/SCI-II T6SS
+VF1133	AatA, AIDA-I type
+VF0739	ABC-type heme transporter
+VF0741	ABC transporter
+VF1070	AbpB SGO_0162
+VF0808	Accessory secretion factor
+VF1122	ACE T6SS
+VF0922	Achromobactin biosynthesis and transport
+VF0467	Acinetobactin
+VF0419	Acm
+VF0568	AcrAB
+VF0907	Acylhomoserine lactone synthase
+VF0893	Adhesion and penetration protein
+VF1146	Adhesive factor/rabbit 1 (AF/R1) pili
+VF0213	Adhesive fimbriae
+VF0229	Aerobactin
+VF0103	Agf
+VF0688	Alcaligin
+VF0091	Alginate
+VF0090	Alkaline protease
+VF0572	Allantion utilization
+VF0276	alpha-C protein
+VF0225	alpha-hemolysin
+VF1063	Alpha-like protein
+VF0649	Amonabactin
+VF0311	Antigen 85
+VF1043	Antigen I/II (AgI/II) family of oral streptococcal adhesins
+VF0352	AS
+VF1333	Ata
+VF0024	Aureolysin
+VF0143	Autolysin
+VF0997	Autolysin alt
+VF0586	Bacillibactin
+VF0462	Bap
+VF0950	Bcf
+VF0746	Bee (biofilm enhancer in enterococci)
+VF0277	beta-C protein
+VF0279	beta-haemolysin/cytolysin
+VF0002	beta-hemolysin
+VF0463	BfmRS
+VF1072	BibA SAG2063
+VF0362	BopD
+VF0034	Brk
+VF1237	BspA
+VF0336	BvgAS
+VF0368	BvrR-BvrS
+VF1054	C3-degrading protease
+VF1157	C3610
+VF0280	CAMP factor
+VF0624	Capsular polysaccharide
+VF0465	Capsule
+VF0436	Capsule I
+VF0541	CARDS toxin
+VF0150	CbpA/PspC
+VF0145	CBPs
+VF1049	Cell surface hydrophobicity proteins
+VF0995	Cell wall associated fibronectin binding protein ebh
+VF0609	ChiRP
+VF0072	ClpC
+VF0004	Clumping factor
+VF0730	Cna
+VF0005	CNA
+VF1074	Cnm BAH16663
+VF0573	Colibactin
+VF1181	Colicin B
+VF1186	Colicin K
+VF1039	Collagen binding protein
+VF1209	Colonization factor Citrobacter (CFC) type IV fimbriae
+VF1131	Contact-dependent inhibition CDI system
+VF1336	CpaA
+VF0461	Csu fimbriae
+VF0924	CupA fimbriae
+VF0925	CupB fimbriae
+VF0926	CupC fimbriae
+VF0934	CupE fimbriae
+VF1138	Curli fibers
+VF0028	Cya
+VF0843	Cyp125
+VF0330	Cytadherence organelle
+VF1244	Desferrioxamine
+VF0317	DevRS
+VF0742	Diphtheria toxin repressor DtxR
+VF0681	Direct heme uptake system
+VF0156	Dot/Icm
+VF0798	Dot/Icm T4SS secreted effectors
+VF1140	E.coli laminin-binding fimbriae (ELF)
+VF0016	Eap/Map
+VF0538	Ebp pili
+VF0008	EbpS
+VF0460	EF-Tu
+VF0354	EfaA
+VF1128	EhaB, AIDA-I type
+VF1176	EHS
+VF0998	Emp
+VF0562	Ent
+VF0228	Enterobactin
+VF0639	Enterobactin receptor VctA
+VF1136	Enterotoxin SenB/TieB
+VF1017	Epidermal cell differentiation inhibitor (EDIN-C, C3stau3)
+VF0613	Eps T2SS
+VF0353	Esp
+VF0173	EspC
+VF0942	EstA
+VF0315	ESX-1
+VF0521	ESX-3
+VF0836	ESX-4 (T7SS)
+VF0402	ESX-5
+VF1178	Etp
+VF1161	ETT2
+VF0478	Exe T2SS
+VF0009	Exfoliative toxin
+VF0582	Exolysin
+VF0755	Exopolysaccharide
+VF0224	F1C fimbriae
+VF1153	F9 fimbriae
+VF0844	FadE28
+VF0845	FadE29
+VF1191	Fap
+VF1076	Fap1 ABL73998
+VF0809	FAS-II
+VF0272	FbpABC
+VF0243	FBPs
+VF0523	FbsB
+VF0896	Ferric enterobactin transport protein A / ferric-repressed protein B
+VF0025	FHA
+VF0452	FHbp
+VF0750	Fibrinogen binding protein
+VF0031	Fimbriae
+VF1202	Fimbrial low-molecular-weight protein (Flp) pili
+VF0373	Flagella
+VF0612	Flp pili
+VF0476	Flp type IV pili
+VF0010	FnBPs
+VF0113	Fur
+VF0908	GacS/GacA two-component system
+VF0011	gamma-hemolysin
+VF0759	Ghf fimbriae
+VF1046	Glucan-binding proteins
+VF0816	Glutamine synthesis
+VF0841	GPL locus
+VF0594	GroEL
+VF0705	Gsp
+VF0036	Haemagglutinating pili
+VF0037	Hap
+VF1254	HasA
+VF0939	HasA-type hemophore-mediated heme uptake system
+VF0758	Heme biosynthesis
+VF0629	Heme receptor HutA
+VF0859	Heme uptake
+VF0650	Heme uptake system
+VF0636	HemO cluster
+VF0647	Hemolysin III
+VF0270	Hgp
+VF0271	HhuA
+VF0039	Hia/Hsf
+VF0268	HitABC
+VF0048	HmbR
+VF1250	HmuR
+VF0038	HMW1/HMW2
+VF0049	HpuAB
+VF0903	HrpA-HrpB
+VF0943	HSI-2
+VF0915	HSI-2 T6SS secreted effectors
+VF0944	HSI-3
+VF0334	HSI-I
+VF1194	HSI-I T6SS secreted effectors
+VF0945	Hxc
+VF0269	HxuABC
+VF0013	Hyaluronate lyase
+VF0244	Hyaluronic acid capsule
+VF0359	Hyaluronidase
+VF1107	Hyaluronidase (phage-encoded)
+VF0920	Hydrogen cyanide production
+VF0237	Ibes
+VF1026	Icm/dot type IVB locus
+VF0300	IdeR
+VF0045	IgA1 protease
+VF0513	IlpA
+VF1258	Imp
+VF1317	Inerolysin
+VF0658	Insecticidal crystalline toxins
+VF0014	Intercellular adhesion proteins
+VF0293	IraAB
+VF1117	Iron-regulated element
+VF0015	Isd
+VF0253	Isocitrate lyase
+VF0239	K1 capsule
+VF0303	KatG
+VF1207	Kfc fimbriae
+VF0087	LasB
+VF0474	Lateral flagella
+VF0047	Lbp
+VF0946	LepA
+VF0814	Leucine synthesis
+VF0012	Lipase
+VF0275	Lmb
+VF1148	Locus for diffuse adherence (lda), afimbrial adhesin
+VF0326	LOS
+VF1249	LpbAB
+VF0466	LPS
+VF0684	LPS-modifying enzyme
+VF0154	Lsp T2SS
+VF0991	LukED
+VF0815	Lysine synthesis
+VF0512	MAM7
+VF1275	McaP
+VF0826	Mce3
+VF0828	Mce5
+VF0830	Mce7
+VF1276	MhaB1-MhaC
+VF1277	MhaB2-MhaC
+VF0252	Mitogenic factor
+VF0867	ML1683
+VF0515	MSHA pili
+VF0477	MSHA type IV pili
+VF1238	Msp
+VF0900	MspA (meningococcal serine protease A)
+VF0299	Mycobactin
+VF0802	Mycolic acid trans-cyclopropane synthetase
+VF0840	MymA operon
+VF0902	NalP (neisserial autotransported lipoprotein) /AspA
+VF0672	NEAT-type hemophore-mediated heme uptake system
+VF1106	NEAT-type surface protein, direct heme uptake system
+VF0894	Neisseria adhesion A
+VF0148	Neuraminidase
+VF0904	NhhA (Neisseria Hia/Hsf homologue)
+VF0302	Nitrate reductase
+VF0851	Nucleoside diphosphate kinase
+VF0392	O-antigen
+VF0720	O-linked flagellar glycosylation
+VF0464	OmpA
+VF0969	OmpD
+VF0076	Opa
+VF0077	Opc
+VF0932	OprE
+VF0931	OprF
+VF0930	OprQ
+VF0701	Ornibactin
+VF1285	Out
+VF0220	P fimbriae
+VF0911	P. syringae TTSS effectors
+VF0042	P2 protein
+VF0871	P200
+VF0041	P5 protein
+VF0929	PA2760
+VF1086	PadA SGO_2005
+VF0968	PagN
+VF1271	PAI-2 encoded
+VF0319	PanC/PanD
+VF0524	PavB
+VF1089	PblA AAG18638
+VF1090	PblB AAG18640
+VF0285	PcaA
+VF1091	PclA spr1403
+VF0878	PDH-B
+VF0309	PDIM
+VF0670	Peritrichous flagella
+VF0027	Pertactin
+VF0584	Petrobactin
+VF0525	PfbA
+VF0286	PhoP
+VF0469	Phospholipase D
+VF0527	PI-1
+VF0530	PI-2
+VF0528	PI-2a
+VF0744	PilA-type pili (PGS1, pilin gene clusters 1)
+VF1151	Pix pilus
+VF0706	Plc-1
+VF0707	Plc-2
+VF1236	PMF pili
+VF0472	PNAG
+VF1066	Pneumococcal iron uptake
+VF0149	Pneumolysin
+VF0473	Polar flagella
+VF0659	Polysaccharide capsule
+VF0081	Porin
+VF0847	Proteasome-associated proteins
+VF0805	Protein kinase G
+VF1252	Proteobactin
+VF1233	Proteus-like (MR/P) fimbriae, mannose resistant (biofilm formation)
+VF0151	PsaA
+VF0936	Pseudomonine
+VF0686	Ptl type IV secretion system
+VF0026	Ptx
+VF0785	Pul
+VF0018	PVL
+VF0095	Pyochelin
+VF0100	Pyocyanin
+VF0094	Pyoverdine
+VF0558	Pyrimidine biosynthesis
+VF0093	Quorum sensing
+VF0571	RcsAB
+VF0457	RecN
+VF0260	RelA
+VF0089	Rhamnolipid
+VF1064	Rib
+VF0490	RickA
+VF0529	RlrA islet
+VF0570	RmpA
+VF0493	ROmpB/Sca5
+VF0166	RpoS
+VF0897	RTX protein
+VF0487	Rvh T4SS
+VF0654	Rvh T4SS secreted effectors
+VF0222	S fimbriae
+VF0055	SabA
+VF0999	SACOL0507
+VF0563	Sal
+VF0972	Salmochelin
+VF0230	Salmochelin siderophore
+VF1010	SasC
+VF1011	SasG
+VF0423	Sbi
+VF0498	Sca1
+VF0495	Sca2
+VF0502	Sca4
+VF1120	SCI-I T6SS
+VF0974	SCI (Salmonella centrisome island)
+VF0418	Scm
+VF0019	SDr
+VF0020	SE
+VF1000	SE2319
+VF0857	SenX3
+VF1050	Serine-rich surface glycoproteins
+VF0982	Serine protease
+VF0994	Serine protease splABCDEF
+VF0219	ShET1
+VF1261	ShlA-ShlB
+VF0119	SigA
+VF0295	SigE
+VF0294	SigF
+VF0296	SigH
+VF0304	SodA
+VF0170	SodC
+VF0788	Sortase A
+VF0694	SP41
+VF0017	SpA
+VF0726	SpaD-type pili
+VF0526	SpaP
+VF0248	Spes
+VF1100	SrpA AAF34780
+VF1102	Srr-1 SAG1462
+VF0990	SSLs
+VF0953	Sta
+VF0006	Staphopain
+VF0421	Staphylocoagulase
+VF1019	Staphylococcal enterotoxin V (SELV)
+VF1013	Staphyloferrin A
+VF1014	Staphyloferrin B
+VF0021	Staphylokinase
+VF0956	Std
+VF0959	Stg
+VF1150	Stg fimbriae
+VF0962	Stj
+VF1051	Streptococcal glucosyltransferases
+VF1068	Streptodornase
+VF0247	Streptokinase
+VF1335	T2SS
+VF0479	T3SS
+VF1300	T3SS1
+VF0632	T3SS1 secreted effectors
+VF1299	T3SS2
+VF0695	T4SS secreted effectors
+VF1337	T6SS
+VF1036	T6SS-A
+VF0783	T6SS-II
+VF0784	T6SS-III
+VF1338	T6SS secreted effectors
+VF1224	TaaP
+VF0475	Tap type IV pili
+VF0267	Tbp
+VF0032	TcfA
+VF0413	TcpC
+VF1334	TFP
+VF0754	The tad locus
+VF0993	Thermonuclease nuc
+VF0937	Thioquinolobactin
+VF0610	TLH
+VF0489	TlyC
+VF0895	Ton system
+VF1248	TpbAB
+VF0241	TraJ
+VF0842	Trehalose-recycling ABC transporter
+VF1056	Trigger factor
+VF0813	Tryptophan synthesis
+VF0233	Tsh
+VF0035	TTSS
+VF0116	TTSS (SPI-1 encode)
+VF0321	TTSS (SPI-2 encode)
+VF0687	TTSS secreted effectors
+VF1211	Type 1 fimbriae
+VF1200	Type 1 pili
+VF1201	Type 2 pili
+VF1208	Type 3 fimbriae
+VF0566	Type I fimbriae
+VF0486	Type I pili
+VF1198	Type IV pili
+VF0403	Type VII secretion system
+VF1003	UafA
+VF1125	UpaG adhesin, trimeric AT
+VF1126	UpaH, AIDA-I type
+VF1225	UspA1
+VF1226	UspA2
+VF0023	V8 protease
+VF1112	Vacuolating autotransporter gene Vat
+VF0690	Vag8
+VF1316	Vaginolysin (VLY)
+VF0335	VAS T6SS
+VF0638	VctPDGC system
+VF0631	Vibrioferrin
+VF0979	VirF
+VF0578	VpadF
+VF0420	VWbp
+VF1045	Wall-associated protein A
+VF0288	WhiB3
+VF0084	Xcp secretion system
+VF1304	Xps
+VF0564	Ybt
+VF1053	Zinc metalloproteinase
+VF0708	ZmpA
+VF0709	ZmpB
