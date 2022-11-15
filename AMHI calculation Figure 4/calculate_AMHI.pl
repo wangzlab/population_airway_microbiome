@@ -4,7 +4,7 @@ while (<IN>) {
 	@a=split("\t",$_);
 	$name{$a[0]}="B_".$a[1];
 }
-open (IN, "bacteria_L6.txt");
+open (IN, "../data/bacteria_L6.txt");
 $dump=<IN>;
 $header=<IN>;
 chop $header;
@@ -25,7 +25,7 @@ while (<IN>) {
 	@a=split("\t",$_);
 	$name{$a[0]}="F_".$a[1];
 }
-open (IN, "fungi_L6.txt");
+open (IN, "../data/fungi_L6.txt");
 $dump=<IN>;
 $header=<IN>;
 chop $header;
@@ -47,7 +47,7 @@ for my $key (keys %bac) {
 	}
 }
 
-open (IN, "disease_status.txt");
+open (IN, "../meta_airwayHealth_overallHealth.txt");
 while (<IN>) {
 	chop;
 	@a=split("\t",$_);
