@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 # This scripts calculate AMHI by adopting a slightly modified scheme from that of Gupta and colleagues to calculate GMHI. 
-# Both bacterial and fungal profiles are used and the thresholds for their fold-changes were simutaneously optimized.
+# Both bacterial and fungal profiles were used and the thresholds for their fold-changes were simutaneously optimized.
 
 open (IN, "bacteria_name_mapping");
 while (<IN>) {
