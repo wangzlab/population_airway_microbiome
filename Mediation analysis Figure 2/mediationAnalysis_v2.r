@@ -50,7 +50,7 @@ for(exp in Exposures){
        
        for(i in 1:ncol(mf.data)){
          mf.dat.tmp <- mf.data[,i, drop=F]
-         if(max(mf.dat.tmp[,1]) == min(mf.dat.tmp[,1])) next # sometimes the 150 sample data all have the same values
+         if(max(mf.dat.tmp[,1]) == min(mf.dat.tmp[,1])) next
          
          mf = colnames(mf.data)[i]
          
